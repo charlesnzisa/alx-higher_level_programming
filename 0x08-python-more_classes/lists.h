@@ -8,5 +8,6 @@ def height(self, value):
 def __init__(self, width=0, height=0):
 def area(self):
 def perimeter(self):
+if __name__ == "__main__":
 
 #endif
