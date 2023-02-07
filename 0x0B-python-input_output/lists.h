@@ -14,5 +14,6 @@ def to_json(self):
 def to_json(self, attrs=None):
 def reload_from_json(self, json):
 def pascal_triangle(n):
+def append_after(filename="", search_string="", new_string=""):
 
 #endif
